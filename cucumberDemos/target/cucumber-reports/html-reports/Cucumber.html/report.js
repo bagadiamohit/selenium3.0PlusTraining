@@ -50,28 +50,28 @@ formatter.match({
   "location": "DemoLoginStepDef1.open_the_browser_and_pass_the_URL()"
 });
 formatter.result({
-  "duration": 27090600537,
+  "duration": 20924287555,
   "status": "passed"
 });
 formatter.match({
   "location": "DemoLoginStepDef1.navigate_to_the_Login_Page()"
 });
 formatter.result({
-  "duration": 2331763970,
+  "duration": 1343496015,
   "status": "passed"
 });
 formatter.match({
   "location": "DemoLoginStepDef1.enter_the_valid_userid_and_password()"
 });
 formatter.result({
-  "duration": 164565895,
+  "duration": 199921147,
   "status": "passed"
 });
 formatter.match({
   "location": "DemoLoginStepDef1.signout_button_should_be_available()"
 });
 formatter.result({
-  "duration": 104553814,
+  "duration": 170296380,
   "status": "passed"
 });
 });
